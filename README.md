@@ -15,8 +15,6 @@ O **coletor_api** automatiza a captura contínua de relatórios e tabelas proven
 ---
 
 ## ✨ Funcionalidades Principais
-
-- 🔑 **Autenticação Multi-Header & Proxy:** Suporte nativo para múltiplos tokens configuráveis (`X-GTA-Session`, `X-XSRF-TOKEN`, `Authorization/Bearer`) e suporte a redes corporativas com Proxy HTTP/HTTPS e SSL configurável.
 - 🔄 **Parsing Inteligente (HTML & JSON):** Converte tabelas HTML (`<table>`) capturadas de páginas web ou arrays/objetos JSON em estruturas tabulares.
 - 🎨 **Exportação Excel Estilizada (via OpenPyXL):**
   - Formatação visual com cabeçalhos personalizados e padrão *zebra*.
